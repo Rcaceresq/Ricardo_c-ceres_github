@@ -48,3 +48,9 @@ p {
   font-weight: 400;
   color: #000000;
 }
+p.nw {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #ffffff;
+
+}
